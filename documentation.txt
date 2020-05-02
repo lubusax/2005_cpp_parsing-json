@@ -1,3 +1,10 @@
+
+ g++ -Wall -o parse1 parseJsonExample1.cpp jsoncpp.cpp 
+
+_______________________________________
+
+List of FOUND information about jsoncpp:
+
 https://github.com/open-source-parsers/jsoncpp
 
 https://www.json.org/json-en.html
@@ -17,4 +24,7 @@ it was under /home/pi/.local/pi/meson
 moved to .../jsoncpp 
 and used ./meson blah blah
 
+
 https://github.com/stardust95/TinyCompiler/issues/2
+
+This is what worked I think:
