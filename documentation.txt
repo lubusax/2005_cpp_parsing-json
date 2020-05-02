@@ -1,0 +1,20 @@
+https://github.com/open-source-parsers/jsoncpp
+
+https://www.json.org/json-en.html
+
+https://stackoverflow.com/questions/47283908/parsing-json-string-with-jsoncpp
+
+http://jsoncpp.sourceforge.net/class_json_1_1_value.html
+
+https://github.com/open-source-parsers/jsoncpp/wiki/Building
+with Meson and Ninja!
+I had to move the exexutable file "meson" 
+
+find / -name meson
+
+it was under /home/pi/.local/pi/meson
+
+moved to .../jsoncpp 
+and used ./meson blah blah
+
+https://github.com/stardust95/TinyCompiler/issues/2
