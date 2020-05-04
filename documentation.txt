@@ -1,9 +1,12 @@
 
+ g++ -o copy-json copy-json.cpp -ljsoncpp
  g++ -Wall -o parse1 parseJsonExample1.cpp jsoncpp.cpp 
 
 _______________________________________
 
 List of FOUND information about jsoncpp:
+
+https://en.wikibooks.org/wiki/JsonCpp
 
 https://github.com/open-source-parsers/jsoncpp
 
