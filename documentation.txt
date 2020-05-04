@@ -1,6 +1,6 @@
+g++ -o parse1 parseJsonExample1.cpp -ljsoncpp
 
- g++ -o copy-json copy-json.cpp -ljsoncpp
- g++ -Wall -o parse1 parseJsonExample1.cpp jsoncpp.cpp 
+g++ -Wall -o parse1 parseJsonExample1.cpp jsoncpp.cpp 
 
 _______________________________________
 

@@ -3,13 +3,13 @@
 	[
 		{
 			"id" : 1,
-			"name" : "MIKE",
-			"surname" : "TAYLOR"
+			"name" : "JOHN",
+			"surname" : "coldplay"
 		},
 		{
 			"id" : 2,
-			"name" : "TOM",
-			"surname" : "JERRY"
+			"name" : "Lena",
+			"surname" : "Thompson"
 		}
 	]
 }
